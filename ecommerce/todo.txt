@@ -1,0 +1,10 @@
+1. refactor every pages
+2. detail order page : done
+3. create order : done
+4. admin dashboard :done
+5. admin order page : :done
+6. admin product page : done
+7. admin user page :done
+8. make pages need authorization :done
+9. change error with toast :partly done
+10. add 404 and 403 page :done
